@@ -2,7 +2,7 @@
     "version":  "1.0.0",
     "description":  "Test rapid trigger tap speed and SOCD / Snap Tap on Hall effect and TMR keyboards.",
     "homepage":  "https://www.hlplanet.com/online-keyboard-tester-tool/",
-    "license":  "Freeware",
+    "license":  "MIT",
     "notes":  "Needs the Microsoft Edge WebView2 Runtime (built into Windows 11).",
     "architecture":  {
                          "64bit":  {
